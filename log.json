@@ -3,9 +3,9 @@
     {
       "id": 1,
       "timestamp": "2025-11-13T00:00:00+02:00",
-      "hot_take_file": "my-hot-takes/queued/myview.md",
+      "hot_take_file": "my-hot-takes/processed/001_hottake.md",
       "hot_take_title": "VPS are pointless as 'anti-censorship' tools",
-      "rebuttal_file": "my-hot-takes/processed/myview-rebuttal.md",
+      "rebuttal_file": "claude-responses/001_response.md",
       "status": "completed",
       "word_count_hot_take": 768,
       "word_count_rebuttal": 2596
